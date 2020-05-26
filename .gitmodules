@@ -1,0 +1,21 @@
+[submodule "hector_gazebo"]
+	path = hector_gazebo
+	url = https://github.com/tu-darmstadt-ros-pkg/hector_gazebo.git
+[submodule "navigation_experimental"]
+	path = navigation_experimental
+	url = https://github.com/RobotnikAutomation/navigation_experimental.git
+[submodule "robotnik_sensors"]
+	path = robotnik_sensors
+	url = https://github.com/RobotnikAutomation/robotnik_sensors.git
+[submodule "velodyne_simulator"]
+	path = velodyne_simulator
+	url = https://github.com/RobotnikAutomation/velodyne_simulator.git
+[submodule "rbcar_common"]
+	path = rbcar_common
+	url = https://github.com/RobotnikAutomation/rbcar_common.git
+[submodule "rbcar_sim"]
+	path = rbcar_sim
+	url = https://github.com/RobotnikAutomation/rbcar_sim.git
+[submodule "joint_read_command_controller"]
+	path = joint_read_command_controller
+	url = https://github.com/RobotnikAutomation/joint_read_command_controller.git
