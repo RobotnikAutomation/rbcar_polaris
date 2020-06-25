@@ -19,3 +19,6 @@
 [submodule "joint_read_command_controller"]
 	path = joint_read_command_controller
 	url = https://github.com/RobotnikAutomation/joint_read_command_controller.git
+[submodule "robotnik_msgs"]
+	path = robotnik_msgs
+	url = https://github.com/RobotnikAutomation/robotnik_msgs
